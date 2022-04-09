@@ -17,8 +17,8 @@ require(metafor)
 require(plotly)
 library(berryFunctions)
 
-dir_data <- '/Users/weiyg/Dropbox (Brown)/Weiyg/Research/PhD/test/data/'
-dir_save <- '/Users/weiyg/Dropbox (Brown)/Weiyg/Research/PhD/test/save/'
+dir_data <- '~/data/'
+dir_save <- '~/save/'
 
 
 
