@@ -7,13 +7,12 @@
 rm(list=ls())
 gc()
 
+require(metafor)
 require(magrittr)
-require(ggplot2)
 library(cowplot)
 require(gtable)
 require(gridExtra)
 require(grid)
-require(metafor)
 require(plotly)
 library(berryFunctions)
 
