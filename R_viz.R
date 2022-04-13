@@ -55,7 +55,7 @@ uniam_results_sub_pm25$cat <- c(paste0(space,'Low'),
                                 paste0(space,'High'),
                                 paste0(space,'Medium to low'))
 
-uniam_results_sub_pm25 <- insertRows(uniam_results_sub_pm25, 1, new = NA)  # insert black rows
+uniam_results_sub_pm25 <- insertRows(uniam_results_sub_pm25, 1, new = NA)  # insert blank rows
 uniam_results_sub_pm25 <- insertRows(uniam_results_sub_pm25, 4, new = NA)
 uniam_results_sub_pm25 <- insertRows(uniam_results_sub_pm25, 4, new = NA)
 uniam_results_sub_pm25 <- insertRows(uniam_results_sub_pm25, 8, new = NA)
