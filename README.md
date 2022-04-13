@@ -10,7 +10,7 @@ Wei Y, Qiu X, Sabath MB, Yazdi MD, Yin K, Li L, Peralta AA, Wang C, Koutrakis P,
  - "dat_sub.rds": Results for subgroup analysis
  - "R_viz": R code for making plot
 
-Similar figures can be found in following papers:
+# Similar plots can be found in the following papers:
 
 Yin K, Luo R, Wei Y, Wang F, Zhang Y, Karlson KJ, Zhang Z, Reardon MJ, Dobrilovic N. Survival outcomes in patients with primary cardiac sarcoma in the United States. *The Journal of Thoracic and Cardiovascular Surgery*. 2021 Jul 1;162(1):107-15.
 
